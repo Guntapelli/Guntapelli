@@ -2,7 +2,7 @@
 
 🚀 **AWS DevOps Engineer | Cloud Automation | CI/CD | Kubernetes**
 
-I am an AWS DevOps Engineer with **5 years of IT experience**, including **3+ years of hands-on DevOps experience** building, automating, and managing cloud infrastructure. I specialize in **AWS, Infrastructure as Code, CI/CD pipelines, containerization, and monitoring**, with a strong focus on **scalability, security, and reliability**.
+I am an AWS DevOps Engineer with **6 years of IT experience**, including **3+ years of hands-on DevOps experience** building, automating, and managing cloud infrastructure. I specialize in **AWS, Infrastructure as Code, CI/CD pipelines, containerization, and monitoring**, with a strong focus on **scalability, security, and reliability**.
 
 ---
 
